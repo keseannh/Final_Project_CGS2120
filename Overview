@@ -1,0 +1,25 @@
+Interactive Calculator Application
+
+Overview
+
+This project is an interactive calculator application developed for a course assignment. It demonstrates the use of Python functions, widgets, and error handling to perform basic arithmetic operations. The application is hosted in a Google Colab notebook, leveraging interactive widgets for seamless user experience.
+
+Arithmetic Operations:
+Addition
+Subtraction
+Multiplication
+Division (with error handling for division by zero)
+Exponentiation
+Square Root (with error handling for negative inputs)
+
+Interactive User Interface:
+Dropdown menu to select operations.
+Inputs for entering numbers.
+A "Calculate" button to run the calculation.
+Real-time display of the result.
+
+Example:
+Operation: Addition
+First Number: 5
+Second Number: 3
+Result: 8
